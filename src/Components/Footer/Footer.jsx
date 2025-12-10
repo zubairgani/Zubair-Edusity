@@ -4,7 +4,12 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div className="footer">
-      <p>© 2025 Edusity. All rights reserved.</p>
+      <p>
+        {" "}
+        <a href="https://zubairgani.vercel.app/">
+          © 2025 Edusity. All rights reserved.
+        </a>{" "}
+      </p>
       <ul>
         <li>
           <a href="" target="_blank">
