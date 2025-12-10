@@ -12,7 +12,7 @@ const Hero = () => {
           knowledge, skills, and experiences needed to excel in the dynamic
           field of education
         </p>
-        <a href="">
+        <a href="https://zubairgani.vercel.app/">
           <button className="btn">
             Explore more <img src={dark_arrow} alt="" />
           </button>
