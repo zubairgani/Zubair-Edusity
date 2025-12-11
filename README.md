@@ -1,12 +1,35 @@
-# React + Vite
+A responsive and user-friendly college information website built with HTML, CSS, Bootstrap, JavaScript, and React. The platform showcases college details, available courses, campus life highlights, and provides an easy contact interface for student inquiries.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> > >**General Features**< < <
+Detailed information about the university
+Overview of available courses & academic programs
+Highlights of campus life, facilities, events, and student activities
+About section with mission, vision, and achievements
+Fully responsive UI using Bootstrap & custom CSS
 
-Currently, two official plugins are available:
+> > >**Contact Interface**< < <
+Easy-to-use contact form
+Allows visitors to submit inquiries
+Clean and modern layout with React components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> > >**Tech Stack**< < <
+HTML
+CSS
+Bootstrap
+JavaScript
+React.js
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> > >**Installation & Setup**< < <
+
+1️⃣ Clone the repository
+git clone https://github.com/zubairgani/Zubair-Edusity.git
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Run the project
+npm run dev
+The Project will run on: http://localhost:5173
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/1d7df858-e742-4a9e-b22e-79871af71474" />
+
