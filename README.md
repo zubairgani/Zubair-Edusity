@@ -1,6 +1,6 @@
 A responsive and user-friendly college information website built with HTML, CSS, Bootstrap, JavaScript, and React. The platform showcases college details, available courses, campus life highlights, and provides an easy contact interface for student inquiries.
 
-🔗 Live Demo: https://zubair-edusity.pages.dev/
+🔗 Live Demo: https://zubair-edusity.pages.dev
 <img width="1919" height="846" alt="image" src="https://github.com/user-attachments/assets/c250d538-c154-4cae-971e-d10e04423d55" />
 
 
