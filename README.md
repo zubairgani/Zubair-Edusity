@@ -31,5 +31,5 @@ npm install
 3️⃣ Run the project
 npm run dev
 The Project will run on: http://localhost:5173
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/1d7df858-e742-4a9e-b22e-79871af71474" />
+
 
